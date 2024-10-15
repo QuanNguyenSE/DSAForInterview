@@ -6,3 +6,4 @@ __________________________________________
 # 1. Array
 ## [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) Done
 ## [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) Done
+## [27. Remove Element](https://leetcode.com/problems/remove-element/description/) Done
