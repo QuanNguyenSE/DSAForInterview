@@ -1,21 +1,9 @@
+package Array;
 public class _27_Remove_Element {
     public static int removeElement(int[] nums, int val) {
 
         int len = nums.length;
-        // for (int i = 0; i < len; i++) {
-
-        // if (nums[i] == val) {
-
-        // // dịch sang trái
-        // for (int j = i; j < nums.length - 1; j++) {
-        // nums[j] = nums[j+1];
-        // }
-
-        // nums[len - 1] = 0;
-        // len--;
-        // }
-
-        // }
+        
         int newlen = 0;
         for (int i = 0; i < len; i++) {
             if (nums[i] == val) {
