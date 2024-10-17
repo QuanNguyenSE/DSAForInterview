@@ -1,4 +1,4 @@
-package Array;
+package Java.Array;
 
 public class _1295_Find_Numbers_with_Even_Number_of_Digits {
     public static int FindNumbers(int[] nums) {

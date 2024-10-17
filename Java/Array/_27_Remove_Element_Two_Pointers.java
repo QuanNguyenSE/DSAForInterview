@@ -1,4 +1,4 @@
-package Array;
+package Java.Array;
 
 public class _27_Remove_Element_Two_Pointers {
     public static int removeElement(int[] nums, int val) {
